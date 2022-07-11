@@ -11,7 +11,7 @@
     margin: 0 auto;
     position: relative;
     overflow: hidden;
-    background: url(/imgs/fundojogo.jpg);
+    background: url(../imgs/fundojogo.jpg);
 }
 
 .akuma{
